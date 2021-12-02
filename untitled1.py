@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 24 17:26:40 2020
 
-@author: Gurkirat
+
 """
 import tkinter
 import PIL
